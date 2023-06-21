@@ -10,12 +10,12 @@ $ git clone https://github.com/RafaelHorta/password-saver.git
 $ cd password-saver
 
 # Install the requeriments
-pip install -r requeriments.txt
+$ pip install -r requeriments.txt
 ```
 
 ## Usage
 
-The optional ```--name``` flag sets a file name. Default is ```password```
+The optional ```--name``` flag sets a file name. Default is ```password```.
 The optional ```--type``` flag sets a file extension. Default is ```txt```
 
 ```console
