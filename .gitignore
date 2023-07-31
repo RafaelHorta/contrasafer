@@ -1,2 +1,2 @@
-classes/__pycache__
-storage/*.txt
+src/__pycache__
+data/*.db
