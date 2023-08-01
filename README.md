@@ -1,8 +1,14 @@
-# Password Saver
+# Contrasafer
 
-## Installation
+### About
 
-```console
+**Contrasafer** is a small application for saving passwords in a SQLite database. You can add, edit, view and delete your passwords
+
+**NOTE**: I used this app just for practice, I will integrate new features
+
+### Installation
+
+```bash
 # Clone the repo
 $ git clone https://github.com/RafaelHorta/contrasafer.git
 
@@ -13,7 +19,12 @@ $ cd contrasafer
 $ pip install -r requeriments.txt
 ```
 
-## Usage
+### Start
 
-The optional ```--name``` flag sets a file name. Default is ```password```
+```bash
+$ python contrasafer.py
+```
 
+### Screenshots
+
+![Screenshot01](screenshots/Screenshot01.png "Screenshot01")
